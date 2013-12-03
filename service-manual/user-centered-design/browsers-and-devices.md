@@ -45,7 +45,8 @@ Note: An exception is made for IE6, as this is still in large-scale use in gover
 
 | OS | Browser | Support |
 |------------------------|
-| Windows | Internet Explorer 10 | Compliant |
+| Windows | Internet Explorer 11 | Compliant |
+| &nbsp; | Internet Explorer 10 | Compliant |
 | &nbsp; | Internet Explorer 9 | Compliant |
 | &nbsp; | Internet Explorer 8 | Compliant |
 | &nbsp; | Internet Explorer 7 | Compliant |
